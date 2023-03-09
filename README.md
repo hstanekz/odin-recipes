@@ -1,1 +1,2 @@
 # odin-recipes
+This was my first web project using HTML alone. I created food webpage, linking to 3 different recipes using relative links. Overall it displays my understanding of basic HTML syntax, implementation of attributes, and usage of links.
